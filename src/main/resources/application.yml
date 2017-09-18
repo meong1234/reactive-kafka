@@ -1,0 +1,5 @@
+kafka:
+    brokerList: localhost:9092
+    groupName: sample-group
+    clientName: sample-consumer
+    topicList:
